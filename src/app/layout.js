@@ -25,6 +25,10 @@ export default function RootLayout({ children }) {
 				name="google-site-verification"
 				content="GK-i-SrOMyVSmwQQuEQiEtKGzhiCA9f1AgZT-nB0TMw"
 			/>
+			<meta
+				name="keywords"
+				content="minify, html minifier, css minifier, javascript minifier, code minifier, html minify, css minify, javascript minify, code minify, avijit07x, avijit dey, avijitdey, avijit dey portfolio, space remover from code"
+			/>
 			<body
 				className={`${geistSans.variable} ${geistMono.variable} antialiased`}
 			>
